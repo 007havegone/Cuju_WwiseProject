@@ -1,0 +1,45 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "E:\\Cuju\\Cuju_WwiseProject\\",
+   "SourceFilesRoot": "E:\\Cuju\\Cuju_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "E:\\Cuju\\Cuju_WwiseProject\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "E:\\Cuju\\Cuju_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "3157003241",
+    "GUID": "{AAAC55C0-709F-4763-AD67-3AE52C682EB5}",
+    "Language": "SFX",
+    "Hash": "1866707839",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Test",
+    "ShortName": "Test",
+    "Path": "Test.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3187507146",
+      "Name": "Play_Test",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Test",
+      "GUID": "{FCE44AC9-F180-4263-8981-96C64EC7E537}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.12",
+      "DurationMax": "1.12",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "799259675",
+        "Language": "SFX",
+        "ShortName": "金币.wav",
+        "Path": "SFX\\金币_10C4C929.wem"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

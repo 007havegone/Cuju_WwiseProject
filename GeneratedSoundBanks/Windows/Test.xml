@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>E:\Cuju\Cuju_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>E:\Cuju\Cuju_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>E:\Cuju\Cuju_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\Cuju\Cuju_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3157003241" GUID="{AAAC55C0-709F-4763-AD67-3AE52C682EB5}" Language="SFX" Hash="1866707839">
+			<ObjectPath>\SoundBanks\Default Work Unit\Test</ObjectPath>
+			<ShortName>Test</ShortName>
+			<Path>Test.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3187507146" Name="Play_Test" ObjectPath="\Events\Default Work Unit\Play_Test" GUID="{FCE44AC9-F180-4263-8981-96C64EC7E537}" DurationType="OneShot" DurationMin="1.12" DurationMax="1.12">
+					<IncludedMemoryFiles>
+						<File Id="799259675" Language="SFX">
+							<ShortName>金币.wav</ShortName>
+							<Path>SFX\金币_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

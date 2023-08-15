@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A5C60C60-FF52-4257-B98C-EC0FE66F38F6}" SchemaVersion="103">
+	<Triggers>
+		<WorkUnit Name="Default Work Unit" ID="{A5C60C60-FF52-4257-B98C-EC0FE66F38F6}" PersistMode="Standalone"/>
+	</Triggers>
+</WwiseDocument>

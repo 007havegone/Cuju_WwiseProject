@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{53830F33-F3DB-4C9A-9448-88F85D229D9C}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{53830F33-F3DB-4C9A-9448-88F85D229D9C}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Test" ID="{5EDB19FF-EF53-4D0A-A2EA-D5856233BD12}" ShortID="684004001">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C35FF5E-CB11-4AFF-BD65-FF65F2DDFD49}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{F95D46B7-E0AB-4212-8E30-DE40B3E63AD6}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="金币" ID="{CE247595-D33A-46BE-9739-4A577E1115AF}">
+							<Language>SFX</Language>
+							<AudioFile>金币.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="799259675"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="金币" ID="{CE247595-D33A-46BE-9739-4A577E1115AF}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
