@@ -1,0 +1,26 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "E:\\QuQ\\GameProject\\SaiBoCuJu\\Git_Wwise\\",
+   "SourceFilesRoot": "E:\\QuQ\\GameProject\\SaiBoCuJu\\Git_Wwise\\.cache\\Mac\\",
+   "SoundBanksRoot": "E:\\QuQ\\GameProject\\SaiBoCuJu\\Git_Wwise\\GeneratedSoundBanks\\Mac\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "E:\\QuQ\\GameProject\\SaiBoCuJu\\Git_Wwise\\GeneratedSoundBanks\\Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1088520938",
+    "GUID": "{884F120E-4BB1-4F2D-953F-62B260C97BB8}",
+    "Language": "SFX",
+    "Hash": "1513260923",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Interface",
+    "ShortName": "Interface",
+    "Path": "Interface.bnk"
+   }
+  ]
+ }
+}

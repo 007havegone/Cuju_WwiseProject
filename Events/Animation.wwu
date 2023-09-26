@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{23493BF1-4E61-4518-BC18-73E986A0AC30}" SchemaVersion="103" RootDocumentID="{3F5EBB10-A00D-4B4C-9499-7CDACE628E88}" ParentDocumentID="{3F5EBB10-A00D-4B4C-9499-7CDACE628E88}">
+	<Events>
+		<WorkUnit Name="Animation" ID="{23493BF1-4E61-4518-BC18-73E986A0AC30}" OwnerID="{3F5EBB10-A00D-4B4C-9499-7CDACE628E88}" PersistMode="Nested"/>
+	</Events>
+</WwiseDocument>

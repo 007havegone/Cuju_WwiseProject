@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3BC82D46-4955-4351-A917-64CA95D7884C}" SchemaVersion="103" RootDocumentID="{3F5EBB10-A00D-4B4C-9499-7CDACE628E88}" ParentDocumentID="{3F5EBB10-A00D-4B4C-9499-7CDACE628E88}">
+	<Events>
+		<WorkUnit Name="Amb" ID="{3BC82D46-4955-4351-A917-64CA95D7884C}" OwnerID="{3F5EBB10-A00D-4B4C-9499-7CDACE628E88}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="Play_Amb" ID="{ECDDC105-0F27-40DA-A920-C5E641BD1FEA}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

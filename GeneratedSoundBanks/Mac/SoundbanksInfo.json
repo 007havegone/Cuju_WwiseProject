@@ -1,0 +1,120 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "E:\\QuQ\\GameProject\\SaiBoCuJu\\Git_Wwise\\",
+   "SourceFilesRoot": "E:\\QuQ\\GameProject\\SaiBoCuJu\\Git_Wwise\\.cache\\Mac\\",
+   "SoundBanksRoot": "E:\\QuQ\\GameProject\\SaiBoCuJu\\Git_Wwise\\GeneratedSoundBanks\\Mac\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "E:\\QuQ\\GameProject\\SaiBoCuJu\\Git_Wwise\\GeneratedSoundBanks\\Mac"
+  },
+  "DialogueEvents": [],
+  "StreamedFiles": [],
+  "MediaFilesNotInAnyBank": [],
+  "SoundBanks": [
+   {
+    "Id": "1088520938",
+    "GUID": "{884F120E-4BB1-4F2D-953F-62B260C97BB8}",
+    "Language": "SFX",
+    "Hash": "1513260923",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Interface",
+    "ShortName": "Interface",
+    "Path": "Interface.bnk"
+   },
+   {
+    "Id": "1117531639",
+    "GUID": "{5DEBD7EA-7316-4228-86BB-46DF161CD952}",
+    "Language": "SFX",
+    "Hash": "187362264",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Amb",
+    "ShortName": "Amb",
+    "Path": "Amb.bnk"
+   },
+   {
+    "Id": "1355168291",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "Hash": "3471413395",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   },
+   {
+    "Id": "1615767906",
+    "GUID": "{9E5B7DD2-29DE-46A8-9250-FAE7B80AC8D7}",
+    "Language": "SFX",
+    "Hash": "573545163",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Music\\Music_Main",
+    "ShortName": "Music_Main",
+    "Path": "Music_Main.bnk"
+   },
+   {
+    "Id": "2227419164",
+    "GUID": "{1C35CB89-4730-434A-A038-56B21D83D9DF}",
+    "Language": "SFX",
+    "Hash": "4065706283",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Music\\Music_End",
+    "ShortName": "Music_End",
+    "Path": "Music_End.bnk"
+   },
+   {
+    "Id": "3157003241",
+    "GUID": "{A7B4EB12-2025-4920-A5B4-AE503212BB49}",
+    "Language": "SFX",
+    "Hash": "3879312660",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Test",
+    "ShortName": "Test",
+    "Path": "Test.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3187507146",
+      "Name": "Play_Test",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Test",
+      "GUID": "{FCE44AC9-F180-4263-8981-96C64EC7E537}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.12",
+      "DurationMax": "1.12",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "799259675",
+        "Language": "SFX",
+        "ShortName": "金币.wav",
+        "Path": "SFX\\金币_10C4C929.wem"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "Id": "3782024871",
+    "GUID": "{CA082189-D94C-47AF-834B-178626FEB697}",
+    "Language": "SFX",
+    "Hash": "1662738964",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Music\\Music_Battle",
+    "ShortName": "Music_Battle",
+    "Path": "Music_Battle.bnk"
+   },
+   {
+    "Id": "3994535597",
+    "GUID": "{7A2EABEC-31B8-4B17-B452-E9F54643160D}",
+    "Language": "SFX",
+    "Hash": "1093471435",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Animation",
+    "ShortName": "Animation",
+    "Path": "Animation.bnk"
+   },
+   {
+    "Id": "4161132316",
+    "GUID": "{6D7FAF60-E693-4220-8915-99ADB7D6129E}",
+    "Language": "SFX",
+    "Hash": "4051423540",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Skill",
+    "ShortName": "Skill",
+    "Path": "Skill.bnk"
+   }
+  ]
+ }
+}

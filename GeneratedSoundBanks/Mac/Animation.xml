@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>E:\QuQ\GameProject\SaiBoCuJu\Git_Wwise\</ProjectRoot>
+		<SourceFilesRoot>E:\QuQ\GameProject\SaiBoCuJu\Git_Wwise\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>E:\QuQ\GameProject\SaiBoCuJu\Git_Wwise\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\QuQ\GameProject\SaiBoCuJu\Git_Wwise\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3994535597" GUID="{7A2EABEC-31B8-4B17-B452-E9F54643160D}" Language="SFX" Hash="1093471435">
+			<ObjectPath>\SoundBanks\Default Work Unit\Animation</ObjectPath>
+			<ShortName>Animation</ShortName>
+			<Path>Animation.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

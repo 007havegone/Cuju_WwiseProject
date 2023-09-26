@@ -1,0 +1,26 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "E:\\QuQ\\GameProject\\SaiBoCuJu\\Git_Wwise\\",
+   "SourceFilesRoot": "E:\\QuQ\\GameProject\\SaiBoCuJu\\Git_Wwise\\.cache\\Mac\\",
+   "SoundBanksRoot": "E:\\QuQ\\GameProject\\SaiBoCuJu\\Git_Wwise\\GeneratedSoundBanks\\Mac\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "E:\\QuQ\\GameProject\\SaiBoCuJu\\Git_Wwise\\GeneratedSoundBanks\\Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "4161132316",
+    "GUID": "{6D7FAF60-E693-4220-8915-99ADB7D6129E}",
+    "Language": "SFX",
+    "Hash": "4051423540",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Skill",
+    "ShortName": "Skill",
+    "Path": "Skill.bnk"
+   }
+  ]
+ }
+}

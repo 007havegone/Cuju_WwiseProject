@@ -26,6 +26,10 @@
 						<ActiveSource Name="金币" ID="{CE247595-D33A-46BE-9739-4A577E1115AF}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<WorkUnit Name="Animation" ID="{696F3675-A15C-4677-97A3-B8F8CB965B2D}" PersistMode="Reference"/>
+				<WorkUnit Name="Amb" ID="{5D697709-857A-41D4-B3DF-8A154A843C44}" PersistMode="Reference"/>
+				<WorkUnit Name="Interface" ID="{47ED06E0-4D83-45C4-9AED-DB54255D8C9F}" PersistMode="Reference"/>
+				<WorkUnit Name="Skill" ID="{29A2FC14-785E-4832-AE9F-05A8EC3CF5C8}" PersistMode="Reference"/>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

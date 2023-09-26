@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{47ED06E0-4D83-45C4-9AED-DB54255D8C9F}" SchemaVersion="103" RootDocumentID="{53830F33-F3DB-4C9A-9448-88F85D229D9C}" ParentDocumentID="{53830F33-F3DB-4C9A-9448-88F85D229D9C}">
+	<AudioObjects>
+		<WorkUnit Name="Interface" ID="{47ED06E0-4D83-45C4-9AED-DB54255D8C9F}" OwnerID="{53830F33-F3DB-4C9A-9448-88F85D229D9C}" PersistMode="Nested">
+			<ChildrenList>
+				<ActorMixer Name="UI_Common" ID="{D8332122-751B-4C0F-A020-A9E7650AE519}" ShortID="505792675">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C35FF5E-CB11-4AFF-BD65-FF65F2DDFD49}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Interface" ID="{4D7C48E2-7C06-4AE8-913C-6D1A52E572D4}" WorkUnitID="{F95D46B7-E0AB-4212-8E30-DE40B3E63AD6}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Folder Name="UI_Common_Start" ID="{30C5DA81-BB6B-4EB5-BA93-3F15E60A80BD}" ShortID="926251312"/>
+						<Folder Name="UI_Common_Failure" ID="{D080D0D4-15AF-4E87-A478-530E5BF45109}" ShortID="144494299"/>
+						<Folder Name="UI_Common_Win" ID="{A751919F-DB0D-4A49-98B9-E50F50679302}" ShortID="120874779"/>
+						<Folder Name="UI_Common_Choose" ID="{B5ED841E-3CDE-44C7-9BC6-13E82ED6B1F2}" ShortID="328669095"/>
+						<Folder Name="UI_Common_Switch" ID="{3BCE625B-A6CF-4203-B180-07512A11E61F}" ShortID="771776858"/>
+						<Folder Name="UI_Common_Close" ID="{720D426D-0B6F-446C-9774-72170A65630A}" ShortID="801301654"/>
+						<Folder Name="UI_Common_Click" ID="{A7A40D74-D5E5-440C-9A11-A480638868CB}" ShortID="65510030"/>
+					</ChildrenList>
+					<ObjectLists/>
+				</ActorMixer>
+				<ActorMixer Name="UI_Special" ID="{CE8ED8E6-3124-4D2B-9244-65E387C2624B}" ShortID="434711885">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C35FF5E-CB11-4AFF-BD65-FF65F2DDFD49}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Interface" ID="{4D7C48E2-7C06-4AE8-913C-6D1A52E572D4}" WorkUnitID="{F95D46B7-E0AB-4212-8E30-DE40B3E63AD6}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Folder Name="UI_Special_TouZhi" ID="{E5166166-58AA-42E5-A67E-FE3ACB7DF1FA}" ShortID="247139594"/>
+						<Folder Name="UI_Special_ShiQu" ID="{21A72ED1-C22A-4B5A-87E0-0DA1819AECC8}" ShortID="76017008"/>
+						<Folder Name="UI_Special_Trap" ID="{610DA699-8B89-4494-B872-30A23F6B02CA}" ShortID="220588051"/>
+					</ChildrenList>
+					<ObjectLists/>
+				</ActorMixer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

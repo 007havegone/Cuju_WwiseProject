@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>E:\QuQ\GameProject\SaiBoCuJu\Git_Wwise\</ProjectRoot>
+		<SourceFilesRoot>E:\QuQ\GameProject\SaiBoCuJu\Git_Wwise\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>E:\QuQ\GameProject\SaiBoCuJu\Git_Wwise\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\QuQ\GameProject\SaiBoCuJu\Git_Wwise\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<SoundBanks>
+		<SoundBank Id="3157003241" GUID="{A7B4EB12-2025-4920-A5B4-AE503212BB49}" Language="SFX" Hash="3879312660">
+			<ObjectPath>\SoundBanks\Default Work Unit\Test</ObjectPath>
+			<ShortName>Test</ShortName>
+			<Path>Test.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3187507146" Name="Play_Test" ObjectPath="\Events\Default Work Unit\Play_Test" GUID="{FCE44AC9-F180-4263-8981-96C64EC7E537}" DurationType="OneShot" DurationMin="1.12" DurationMax="1.12">
+					<IncludedMemoryFiles>
+						<File Id="799259675" Language="SFX">
+							<ShortName>金币.wav</ShortName>
+							<Path>SFX\金币_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

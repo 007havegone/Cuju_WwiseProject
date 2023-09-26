@@ -14,6 +14,11 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<WorkUnit Name="Amb" ID="{3BC82D46-4955-4351-A917-64CA95D7884C}" PersistMode="Reference"/>
+				<WorkUnit Name="Animation" ID="{23493BF1-4E61-4518-BC18-73E986A0AC30}" PersistMode="Reference"/>
+				<WorkUnit Name="Interface" ID="{A55225A6-943C-4911-B75F-5D9A629D7F1B}" PersistMode="Reference"/>
+				<WorkUnit Name="Music" ID="{A62E484B-CF6C-4A8E-B6F6-F399B8FEDBBD}" PersistMode="Reference"/>
+				<WorkUnit Name="Skill" ID="{CAC0E8DA-5409-4142-B245-4FA6F166F4D8}" PersistMode="Reference"/>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

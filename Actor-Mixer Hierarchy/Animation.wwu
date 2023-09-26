@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{696F3675-A15C-4677-97A3-B8F8CB965B2D}" SchemaVersion="103" RootDocumentID="{53830F33-F3DB-4C9A-9448-88F85D229D9C}" ParentDocumentID="{53830F33-F3DB-4C9A-9448-88F85D229D9C}">
+	<AudioObjects>
+		<WorkUnit Name="Animation" ID="{696F3675-A15C-4677-97A3-B8F8CB965B2D}" OwnerID="{53830F33-F3DB-4C9A-9448-88F85D229D9C}" PersistMode="Nested">
+			<ChildrenList>
+				<ActorMixer Name="Animation" ID="{28D1FD30-FB27-49A8-8168-E6EB809341B3}" ShortID="729775091">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C35FF5E-CB11-4AFF-BD65-FF65F2DDFD49}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Animation" ID="{5296B70C-5AE1-403B-B099-07378B61B973}" WorkUnitID="{F95D46B7-E0AB-4212-8E30-DE40B3E63AD6}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<RandomSequenceContainer Name="Amtn_KickBall" ID="{2F74F247-A40D-4B7E-8E04-DE7FB81EB8AE}" ShortID="771242445">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C35FF5E-CB11-4AFF-BD65-FF65F2DDFD49}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{F95D46B7-E0AB-4212-8E30-DE40B3E63AD6}"/>
+								</Reference>
+							</ReferenceList>
+							<ObjectLists/>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="Amtn_CatchBall" ID="{13024485-299C-45A4-B9FA-DF82AF074CA0}" ShortID="667540460">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C35FF5E-CB11-4AFF-BD65-FF65F2DDFD49}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{F95D46B7-E0AB-4212-8E30-DE40B3E63AD6}"/>
+								</Reference>
+							</ReferenceList>
+							<ObjectLists/>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="Amtn_Goal" ID="{D0A25357-0C15-4C0B-9AB9-0946201B7D3C}" ShortID="824542356">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C35FF5E-CB11-4AFF-BD65-FF65F2DDFD49}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{F95D46B7-E0AB-4212-8E30-DE40B3E63AD6}"/>
+								</Reference>
+							</ReferenceList>
+							<ObjectLists/>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="Amtn_Defend" ID="{F6465E6D-FA69-4B3D-8218-4212DCD7EBE0}" ShortID="870724470">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C35FF5E-CB11-4AFF-BD65-FF65F2DDFD49}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{F95D46B7-E0AB-4212-8E30-DE40B3E63AD6}"/>
+								</Reference>
+							</ReferenceList>
+							<ObjectLists/>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="Amtn_Attack" ID="{2578B5AF-2270-4718-953F-D9F108CED86D}" ShortID="778925189">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C35FF5E-CB11-4AFF-BD65-FF65F2DDFD49}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{F95D46B7-E0AB-4212-8E30-DE40B3E63AD6}"/>
+								</Reference>
+							</ReferenceList>
+							<ObjectLists/>
+						</RandomSequenceContainer>
+						<Folder Name="Amtn_Jump" ID="{D7C43008-49AF-49AD-AD5F-80847EEFA0B8}" ShortID="877861095"/>
+						<Folder Name="Amtn_ShuaiDao" ID="{F1ACD1D6-5797-4996-80D2-D3F18712C040}" ShortID="598492177"/>
+						<Folder Name="Amtn_HuaChan" ID="{53A984FC-9317-49CA-9A47-8028E247615C}" ShortID="423501294"/>
+					</ChildrenList>
+					<ObjectLists/>
+				</ActorMixer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

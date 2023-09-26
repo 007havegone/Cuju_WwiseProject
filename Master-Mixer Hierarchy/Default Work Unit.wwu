@@ -9,6 +9,35 @@
 							<ObjectRef Name="System" ID="{170B7BFE-CD9B-4DFA-8643-376B16953E47}" WorkUnitID="{0F9E7240-1B60-4B54-8E91-237D58036957}"/>
 						</Reference>
 					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="Interface" ID="{4D7C48E2-7C06-4AE8-913C-6D1A52E572D4}">
+							<ObjectLists/>
+						</Bus>
+						<Bus Name="Animation" ID="{5296B70C-5AE1-403B-B099-07378B61B973}">
+							<ObjectLists/>
+						</Bus>
+						<Bus Name="Music" ID="{BE7D724F-31C6-4A63-9073-600F32D7AFF1}">
+							<ObjectLists/>
+						</Bus>
+						<Bus Name="Amb" ID="{48CEE478-55A5-44D0-AE95-036C8C2C47E2}">
+							<ObjectLists/>
+							<DuckingList>
+								<DuckItem>
+									<BusRef Name="Interface" ID="{4D7C48E2-7C06-4AE8-913C-6D1A52E572D4}"/>
+									<DuckingParam>
+										<Volume>-3</Volume>
+										<FadeInTime>1</FadeInTime>
+										<FadeOutTime>1</FadeOutTime>
+										<FadeCurve>FadeLinear</FadeCurve>
+										<TargetProp>BusVolume</TargetProp>
+									</DuckingParam>
+								</DuckItem>
+							</DuckingList>
+						</Bus>
+						<Bus Name="Skill" ID="{87B88406-3B0F-43E4-B669-0BCCDD9EAF94}">
+							<ObjectLists/>
+						</Bus>
+					</ChildrenList>
 					<ObjectLists/>
 				</Bus>
 			</ChildrenList>

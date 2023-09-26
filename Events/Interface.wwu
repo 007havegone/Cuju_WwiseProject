@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A55225A6-943C-4911-B75F-5D9A629D7F1B}" SchemaVersion="103" RootDocumentID="{3F5EBB10-A00D-4B4C-9499-7CDACE628E88}" ParentDocumentID="{3F5EBB10-A00D-4B4C-9499-7CDACE628E88}">
+	<Events>
+		<WorkUnit Name="Interface" ID="{A55225A6-943C-4911-B75F-5D9A629D7F1B}" OwnerID="{3F5EBB10-A00D-4B4C-9499-7CDACE628E88}" PersistMode="Nested"/>
+	</Events>
+</WwiseDocument>

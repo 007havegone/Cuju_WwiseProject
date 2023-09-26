@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{29A2FC14-785E-4832-AE9F-05A8EC3CF5C8}" SchemaVersion="103" RootDocumentID="{53830F33-F3DB-4C9A-9448-88F85D229D9C}" ParentDocumentID="{53830F33-F3DB-4C9A-9448-88F85D229D9C}">
+	<AudioObjects>
+		<WorkUnit Name="Skill" ID="{29A2FC14-785E-4832-AE9F-05A8EC3CF5C8}" OwnerID="{53830F33-F3DB-4C9A-9448-88F85D229D9C}" PersistMode="Nested">
+			<ChildrenList>
+				<ActorMixer Name="Skill" ID="{8BB67234-691E-47A2-BCEE-3171DB98A043}" ShortID="906518278">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C35FF5E-CB11-4AFF-BD65-FF65F2DDFD49}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Skill" ID="{87B88406-3B0F-43E4-B669-0BCCDD9EAF94}" WorkUnitID="{F95D46B7-E0AB-4212-8E30-DE40B3E63AD6}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Folder Name="Skill_MaiXianJin" ID="{33299F3A-A276-4196-A8C8-E23CADB0BE9E}" ShortID="166337056"/>
+						<Folder Name="Skill_Fly" ID="{1EA28B25-BEA0-4908-BF97-533C92C9F3E8}" ShortID="98929122"/>
+					</ChildrenList>
+					<ObjectLists/>
+				</ActorMixer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

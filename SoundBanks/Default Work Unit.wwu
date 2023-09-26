@@ -10,6 +10,45 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<Folder Name="Music" ID="{8FACF656-6E50-44F9-9505-D101155B0DDC}" ShortID="290010142">
+					<ChildrenList>
+						<SoundBank Name="Music_Main" ID="{9E5B7DD2-29DE-46A8-9250-FAE7B80AC8D7}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+						<SoundBank Name="Music_Battle" ID="{CA082189-D94C-47AF-834B-178626FEB697}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+						<SoundBank Name="Music_End" ID="{1C35CB89-4730-434A-A038-56B21D83D9DF}">
+							<ObjectInclusionList/>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+					</ChildrenList>
+				</Folder>
+				<SoundBank Name="Skill" ID="{6D7FAF60-E693-4220-8915-99ADB7D6129E}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Interface" ID="{884F120E-4BB1-4F2D-953F-62B260C97BB8}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Amb" ID="{5DEBD7EA-7316-4228-86BB-46DF161CD952}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Animation" ID="{7A2EABEC-31B8-4B17-B452-E9F54643160D}">
+					<ObjectInclusionList/>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>

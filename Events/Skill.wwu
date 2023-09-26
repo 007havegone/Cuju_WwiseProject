@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CAC0E8DA-5409-4142-B245-4FA6F166F4D8}" SchemaVersion="103" RootDocumentID="{3F5EBB10-A00D-4B4C-9499-7CDACE628E88}" ParentDocumentID="{3F5EBB10-A00D-4B4C-9499-7CDACE628E88}">
+	<Events>
+		<WorkUnit Name="Skill" ID="{CAC0E8DA-5409-4142-B245-4FA6F166F4D8}" OwnerID="{3F5EBB10-A00D-4B4C-9499-7CDACE628E88}" PersistMode="Nested"/>
+	</Events>
+</WwiseDocument>
